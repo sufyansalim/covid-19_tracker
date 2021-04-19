@@ -4,7 +4,7 @@
 
 ![Amazon](covid.png)
 
-## [Live Site](SARS-CoV-2.surge.sh)
+## [Live Site](http://SARS-CoV-2.surge.sh)
 
 
 # Usage
